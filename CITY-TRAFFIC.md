@@ -3,8 +3,8 @@
 ## How to run
 
 ```bash
-# Configure numer of cars and semaphores
-go run main.go <numberOfCars> <numberOfSemaphores>
+# Configure number of cars
+go run main.go <numberOfCars>
 
 # Show help
 go run main.go -help
