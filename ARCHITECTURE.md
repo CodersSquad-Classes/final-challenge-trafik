@@ -12,7 +12,10 @@
 ## Resources
 
 [Ebiten Examples](https://ebiten.org/examples/flappy.html)
+
 [Mastering Concurrency in Go](https://www.educative.io/courses/mastering-concurrency-in-go)
+
+[goplantuml](https://github.com/jfeliu007/goplantuml)
 
 ## ToDo's
 
